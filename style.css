@@ -1,8 +1,20 @@
+section {
+    padding-top: 5rem;
+}
+
 .jumbotron {
     padding-top: 8rem;
     background-color: #e2edff;
 }
 
+.gallery-img {
+    width: 100%;
+}
+
 #projects{
     background-color: #e2edff;
+}
+
+#gallery .row > * {
+    padding: 0;
 }
